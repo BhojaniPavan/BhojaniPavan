@@ -29,7 +29,7 @@ Built with caffeine, late-night playlists, and a touch of madness.
 
 ## 🌐 Where to Find Me
 - [LinkedIn](www.linkedin.com/in/pavan-bhojani-584a53200)
-- [GitHub]([https://github.com/your-profile](https://github.com/BhojaniPavan))
+- [GitHub](https://github.com/BhojaniPavan)
 
 ---
 
