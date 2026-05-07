@@ -15,23 +15,9 @@ Building digital products that are fast, scalable, and purposeful.
 
 ## About
 
-I'm a full-stack developer specializing in **Node.js** and **React.js**, focused on building clean, performant web applications. I care deeply about code quality, intuitive UX, and APIs that just work.
+I'm a full-stack developer with a strong focus on **Node.js** and **React.js**, passionate about crafting clean, performant, and production-ready web applications. I care deeply about code quality, intuitive user experience, and building APIs that are reliable and easy to consume.
 
-When I'm not shipping features, I'm exploring new tech, gaming, or finding the best hidden food joints in a new city.
-
----
-
-## Featured Project — Cars Daily 🚗
-
-> *A modern platform reimagining how people manage their vehicles.*
-
-**Cars Daily** offers a seamless car care experience through two core services:
-
-- **Subscription Plans** — Recurring car care, like a maintenance membership
-- **On-Demand Repairs** — One-time service bookings with transparent pricing
-- **Unified Payments** — One dashboard, zero friction
-
-Built end-to-end with a focus on reliability, clean UX, and smooth payment flows.
+I thrive at the intersection of thoughtful engineering and great design — whether that's architecting a scalable backend, designing a smooth frontend flow, or integrating complex payment and real-time systems.
 
 ---
 
@@ -77,9 +63,9 @@ Built end-to-end with a focus on reliability, clean UX, and smooth payment flows
 
 - **Payment Gateway Integration** — Razorpay, Stripe, and custom webhook flows
 - **RESTful API Design** — Versioned, documented, and built to scale
-- **Real-Time Features** — Socket.io for live updates and notifications
-- **Authentication & Security** — JWT, role-based access control
-- **Containerization** — Docker-based environments for consistent deployments
+- **Real-Time Systems** — Socket.io for live updates, notifications, and event-driven architectures
+- **Authentication & Security** — JWT, role-based access control, and secure session management
+- **Containerization** — Docker-based environments for consistent, reproducible deployments
 
 ---
 
@@ -100,7 +86,7 @@ Built end-to-end with a focus on reliability, clean UX, and smooth payment flows
 
 ## Interests
 
-- Following developments in developer tooling, AI, and infrastructure
+- Tracking developments in developer tooling, AI, and infrastructure
 - FPS and racing games
 - Street photography
 - City exploration and local food discovery
@@ -109,7 +95,7 @@ Built end-to-end with a focus on reliability, clean UX, and smooth payment flows
 
 <div align="center">
 
-*Open to interesting collaborations and conversations.*
+*Open to interesting collaborations and conversations.*  
 **[Connect on LinkedIn](https://www.linkedin.com/in/pavan-bhojani-584a53200)**
 
 </div>
